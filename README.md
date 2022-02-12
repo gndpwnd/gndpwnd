@@ -1,6 +1,6 @@
 **🔍 Find me places**
 
-[GitHub](https://github.com/gndpwnd) | [Twitter](https://twitter.com/gndpwnd) | [Instagram](https://www.instagram.com/gndpwnd/) | @gndpwnd:matrix.org
+[GitHub](https://github.com/gndpwnd) | [Twitter](https://twitter.com/gndpwnd) | @gndpwnd:matrix.org
 
 <!--- [YouTube ](https://www.youtube.com/channel/UCF-rCRpJzmxrRzU1CA5sfCg) --->
 <!--- [LinkedIn (not yet created)]() --->
