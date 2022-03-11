@@ -8,7 +8,7 @@
 
 ## 📎 Summary
 
-I use Github Organizations for larger projects, so there is not much content in my home repos other than stuff that influences my workflows and some misc notes and projects.
+I use Github Organizations for larger projects, so there is not much content in my home repos other than stuff that influences my workflows, some misc notes and projects.
 
 Notable projects will be listed on my resume site of which is currently in development.
 
