@@ -1,10 +1,10 @@
-## 📎 Summary
+<h1>📎 Summary</h1>
 
 I like to reduce workloads with automation. I'm also working on learning robotics, cybersecurity, and general neural networks. 
 
-## 📚 Other Info
+<h2>📚 Other Info</h2>
 
-<summary align="center" ><b>🖥️ Stats </b>•<b> 🔥 Streaks </b>•<b> 📊 Contributions </b>•<b> 🏆 Achievements</b></summary>
+<h3 align="center" ><b>🖥️ Stats </b>•<b> 🔥 Streaks </b>•<b> 📊 Contributions </b>•<b> 🏆 Achievements</b></h3>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gndpwnd&hide_border=true&count_private=true&show_icons=true&theme=github_dark&color=1DA1F2" alt="gndpwnd" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gndpwnd&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark&" alt="gndpwnd" align = "center"/></p>
