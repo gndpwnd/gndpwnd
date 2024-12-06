@@ -1,6 +1,6 @@
 <h1>📎 Summary</h1>
 
-I like to reduce workloads with automation. I'm also working on learning robotics, cybersecurity, and general neural networks. 
+I like to reduce workloads with automation. Working to learn robotics, dev0ps, cybersecurity, and general neural networks. 
 
 <h2>📚 Other Info</h2>
 
